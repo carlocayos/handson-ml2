@@ -22,3 +22,9 @@ datasets/titanic
 datasets/words
 datasets/jsb_chorales
 
+# IntelliJ project files
+.idea
+*.iml
+out
+gen
+
